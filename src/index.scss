@@ -60,13 +60,13 @@ $diameter: 20vh;
     border: solid 2px lightslategray;
     margin: auto;
     cursor: pointer;
-  }
 
-  button#start:hover {
-    background-color: #eaeaea;
-  }
-  
-  button#start:active {
-    transform: translateY(4px);
+    &:hover {
+      background-color: #eaeaea;
+    }
+
+    &:active {
+      transform: translateY(4px);
+    }
   }
 }
