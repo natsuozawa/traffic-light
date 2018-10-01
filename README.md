@@ -2,7 +2,9 @@
 `Start`ボタンを押すと自動で信号が変わるもの。
 
 # アクセス方法
-リポジトリをクローン
+[natsuozawa.github.ioで見る](https://natsuozawa.github.io/traffic-light/)
+
+または、リポジトリをクローン
 ```
 $ git clone https://github.com/natsuozawa/traffic-light.git
 ```
