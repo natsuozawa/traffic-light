@@ -8,9 +8,9 @@
 ```
 $ git clone https://github.com/natsuozawa/traffic-light.git
 ```
-Production buildは`dist`ディレクトリに入っている。
+Production buildは`docs`ディレクトリに入っている。
 ```
-$ cd dist
+$ cd docs
 $ start index.html
 ```
 
