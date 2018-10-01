@@ -1,9 +1,11 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const path = require('path');
 
 module.exports = {
   entry: './src/index.js',
   output: {
-    filename: 'index.js'
+    filename: 'index.js',
+    path: path.resolve(__dirname, 'docs')
   },
   module: {
     rules: [
